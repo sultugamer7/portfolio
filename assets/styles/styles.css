@@ -198,6 +198,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 5.5em;
 }
 
+.image {
+	border-style: ridge;
+    border-width: 2px;
+}
+
 .details h3 {
 	color: #738182;
 	text-transform: uppercase;

@@ -5,13 +5,13 @@ const Portfolio = function() {
 				text: "python",
 				weight: 15
 			}, {
-				text: "css3",
+				text: "bootstrap",
 				weight: 8
 			}, {
-				text: "bootstrap",
+				text: "flask",
 				weight: 14
 			}, {
-				text: "c",
+				text: "css3",
 				weight: 7
 			}, {
 				text: "java",
@@ -26,7 +26,7 @@ const Portfolio = function() {
 				text: "javascript",
 				weight: 12.3
 			}, {
-				text: "",
+				text: "c",
 				weight: 3
 			}
 		];
